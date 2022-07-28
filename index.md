@@ -1,18 +1,20 @@
-## A look at Social Media
+# A look at Social Media
 
 The purpose of this site is to look at the different types of social media platforms. Comparing them and identifying similarities and unique differences regarding their design and intent.
 
+## Articles
+
 ### [Traditional Media](traditional_media.md)
 
-### [Traditiona Media](traditional_media.md)
+### [Microblogging](microblogging.md)
 
-### [Tradition Media](traditional_media.md)
+### [Spotify & Twitter](spotify_twitter.md)
 
-### [Traditio Media](traditional_media.md)
+### [Pinterest & Social Media](pinterest.md)
 
-### [Traditi Media](traditional_media.md)
+### [LinkedIn & Social Media](linkedin.md)
 
-### [Tradit Media](traditional_media.md)
+### [Social Gaming & Social Media](social_gaming.md)
 
 You can use the [editor on GitHub](https://github.com/jaypestillo/socialmediaproject.site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

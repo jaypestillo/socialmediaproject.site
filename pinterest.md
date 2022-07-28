@@ -16,3 +16,5 @@ References:
 
 Statista. (2022, March 28). Pinterest: distribution of global audiences 2022, by gender.
 https://www.statista.com/statistics/248168/gender-distribution-of-pinterest-users/
+
+### Return to [Home](index.md)
