@@ -2,7 +2,17 @@
 
 The purpose of this site is to look at the different types of social media platforms. Comparing them and identifying similarities and unique differences regarding their design and intent.
 
-### [Traditional Media](_data/traditional_media.md)
+### [Traditional Media](traditional_media.md)
+
+### [Traditiona Media](traditional_media.md)
+
+### [Tradition Media](traditional_media.md)
+
+### [Traditio Media](traditional_media.md)
+
+### [Traditi Media](traditional_media.md)
+
+### [Tradit Media](traditional_media.md)
 
 You can use the [editor on GitHub](https://github.com/jaypestillo/socialmediaproject.site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
