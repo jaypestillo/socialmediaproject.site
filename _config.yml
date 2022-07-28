@@ -2,14 +2,11 @@ theme: jekyll-theme-slate
 title: Social Media Project
 description: by Jay Pestillo
 
-docs_list_title: ACME Documentation
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+header_pages:
+  - index.md
+  - traditional_media.md
+  - microblogging.md
+  - spotify_twitter.md
+  - pinterest.md
+  - linkedin.md
+  - social_gaming.md
