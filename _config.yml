@@ -1,3 +1,15 @@
 theme: jekyll-theme-slate
 title: Social Media Project
-description: This site is for IDT510 - Social Media. Being a summary of the social media platforms we've evaluated and compared throughout the course. 
+description: by Jay Pestillo
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
