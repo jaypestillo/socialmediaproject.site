@@ -1,8 +1,11 @@
+---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "Traditional Media"
+permalink: /traditional_media/
+---
 
-# Traditional Media
+
+<!-- # Traditional Media -->
 
 ## Facebook & Television Comparison
 
