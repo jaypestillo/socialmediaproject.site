@@ -4,9 +4,6 @@ title: "Traditional Media"
 permalink: /traditional_media/
 ---
 
-
-<!-- # Traditional Media -->
-
 ## Facebook & Television Comparison
 
 In my comparison, I chose to use Facebook and cable television. For this comparison, I utilized my friend's Facebook as I don’t have my own. The television was standard cable television that was broadcasted in Italy.  
@@ -18,4 +15,4 @@ Another similarity between the two media sources that I noticed was the sense of
 Lastly, I think the most obvious difference that I noticed existing between the two media sources was the social aspect. This was somewhat obvious as the television would only allow for the broadcasting of content and information. Facebook allows for the interaction and contribution of content through sharing, liking, and posting, while also consuming its media.
 Overall, the two mediums have quite a few similarities but have a significant difference as one is a social media source, and the other is simply a source of media.  
 
-<p style="text-align: center;">### Return to [Home](index.md)</p>
+### Return to [Home](index.md)
