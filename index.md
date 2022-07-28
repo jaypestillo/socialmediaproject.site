@@ -16,4 +16,4 @@ The purpose of this site is to look at the different types of social media platf
 
 ### [Social Gaming & Social Media](social_gaming.md)
 
-This project was created as a final project for the course IDT510 - Social Media taught by Ryan Lizardi at SUNY Polytechnic Institute.
+This site was created as a final project for the course IDT510 - Social Media taught by Ryan Lizardi at SUNY Polytechnic Institute.
