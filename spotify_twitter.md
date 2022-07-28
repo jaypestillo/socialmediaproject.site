@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Spotify & Twitter"
 permalink: /spotify_twitter/
 ---

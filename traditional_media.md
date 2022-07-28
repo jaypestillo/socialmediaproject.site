@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Traditional Media"
 permalink: /traditional_media/
 ---

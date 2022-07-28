@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Social Gaming"
 permalink: /social_gaming/
 ---
